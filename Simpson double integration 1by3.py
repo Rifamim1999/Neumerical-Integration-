@@ -1,9 +1,9 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Thu Jun 23 16:45:29 2022
 
 @author: Rifa Tabassum Mim
-lab: Simphson's double integration'
+lab: Simpson's double integration'
 """
 
 import numpy as np
